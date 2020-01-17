@@ -1,0 +1,38 @@
+<html>
+<body>
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {text-align:center;}
+</style>
+
+<h1><b><center><font size ="12>Chrome</b></h1></center></font>
+
+
+<center><a href="D:\project\project\FINAL REPORT\chrome\chrome\title section 1.html"></a></p></center>
+<nav><font size="5px">
+
+<center><a href="D:\project\project\FINAL REPORT\maxthon\Criticism.html">history</a></p></center>
+
+<center><a href="D:\project\project\FINAL REPORT\maxthon\Maxthon Cloud Browser.html">Other features</a></p></center>
+
+<center><a href="D:\project\project\FINAL REPORT\chrome\chrome\Safari Developer Program.html">Safari Developer Program</a></p></center>
+
+<center><a href="D:\project\project\FINAL REPORT\maxthon\mobile.html">safari version</a></p></center>
+
+<center><a href="D:\project\project\FINAL REPORT\maxthon\Other features.html">security</a></p></center>
+
+<center><a href="D:\project\project\FINAL REPORT\maxthon\System requirements.html">System requirements</a></p></center>
+
+<center><a href="D:\project\project\FINAL REPORT\maxthon\version.html">security</a></p></center>
+
+
+</font>
+
+
+</html>

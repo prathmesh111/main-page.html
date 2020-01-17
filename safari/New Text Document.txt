@@ -1,0 +1,5 @@
+#nav p {
+         background color:orchid;
+         width:100px;
+         border-radius:40px;
+}

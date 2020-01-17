@@ -1,0 +1,13 @@
+*
+{ margin: 0;
+  padding: 0;
+}
+body
+{font-family: calibri;
+ font-color: black;
+}
+header
+{
+background-color: orchid;
+text-shawdow: 6px 6px 6px solid red;
+}
